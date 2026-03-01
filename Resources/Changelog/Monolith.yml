@@ -17591,3 +17591,12 @@ Entries:
   id: 1940
   time: '2026-03-01T17:21:58.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3314
+- author: Arcticular1
+  changes:
+    - type: Add
+      message: the ADS Wyrm has been spotted in the sector!
+    - type: Remove
+      message: 'All traces of ADS Razor activity has been reported to be non existent. '
+  id: 1941
+  time: '2026-03-01T22:43:10.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3140
