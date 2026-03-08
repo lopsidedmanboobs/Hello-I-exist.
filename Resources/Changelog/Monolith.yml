@@ -18006,3 +18006,10 @@ Entries:
   id: 1984
   time: '2026-03-08T11:39:22.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3164
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: POIs no longer rammable
+  id: 1985
+  time: '2026-03-08T15:32:56.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3396
