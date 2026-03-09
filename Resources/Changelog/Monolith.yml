@@ -18065,3 +18065,13 @@ Entries:
   id: 1991
   time: '2026-03-08T23:56:45.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3403
+- author: lopsidedmanboobs
+  changes:
+    - type: Tweak
+      message: >-
+        You can no longer attack docked/undocked ships within a 256m radius of
+        faction outposts in the Conflict R4 (excluding ships in combat within
+        the last 2 minutes)
+  id: 1992
+  time: '2026-03-09T02:08:40.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3409
